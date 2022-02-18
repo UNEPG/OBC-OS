@@ -15,3 +15,4 @@ root@cubesat:~# i2cdetect -y 1
 root@cubesat:~# vcgencmd get_camera
 supported=0 detected=0
 ```
+![CleanShot 2022-02-18 at 17 33 17](https://user-images.githubusercontent.com/8280770/154674975-3180079c-8089-4768-85f6-e4b6f14809f1.png)

@@ -9,5 +9,6 @@ OBC OS Build for AlfaSat/UniSat [2022]
   sudo cp ./dt-blob.bin /boot/
   sudo cat ./conf.txt >> /boot/config.txt 
   ```
+4. Reboot the system. 
   
 
